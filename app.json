@@ -1,0 +1,10 @@
+{
+  "name": "NaughtyMath",
+  "displayName": "Naughty Math",
+  "react-native-google-mobile-ads": {
+    "_comment": "FIXME: add your own AdMob app IDs, Once you've added the IDs, you can remove this field.",
+    "android_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "ios_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "user_tracking_usage_description": "This identifier will be used to deliver personalized ads to you."
+  }
+}

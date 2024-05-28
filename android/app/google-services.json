@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "00000000000",
+    "project_id": "api-project-00000000000",
+    "storage_bucket": "api-project-00000000000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:00000000000:android:c256648284bff90d9343a3",
+        "android_client_info": {
+          "package_name": "com.naughtymath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "00000000000-nsr7dashhcflp2be5g4g600dprk3gea6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naughtymath",
+            "certificate_hash": "5ecdbc31b0119ff37203d2a94fc35dbc831edb9c"
+          }
+        },
+        {
+          "client_id": "00000000000-p0jcqor60khi6a7dvpcffv0lstb0kvle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVH6nTJP5IOzwwnd1xAsqNqUKyMzWK5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "00000000000-p0jcqor60khi6a7dvpcffv0lstb0kvle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713"
+    }
+  ],
+  "configuration_version": "1"
+}

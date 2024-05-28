@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Naughty Math</string>
+    <!-- FIXME: Add your game_services_project_id -->
+    <string translatable="false" name="game_services_project_id">00000000000</string>
+</resources>
