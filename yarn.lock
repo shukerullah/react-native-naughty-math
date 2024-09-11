@@ -4947,13 +4947,13 @@ __metadata:
   linkType: hard
 
 "fast-xml-parser@npm:^4.0.12, fast-xml-parser@npm:^4.2.4":
-  version: 4.3.6
-  resolution: "fast-xml-parser@npm:4.3.6"
+  version: 4.4.1
+  resolution: "fast-xml-parser@npm:4.4.1"
   dependencies:
     strnum: ^1.0.5
   bin:
     fxparser: src/cli/cli.js
-  checksum: 12795c55f4564699c3cee13f7e892423244ac1125775e9b85bf948a1d4b65352da8f688d334bad530972288bb7ee0cf3d2605088d475123fce40d95003f045fa
+  checksum: f440c01cd141b98789ae777503bcb6727393296094cc82924ae9f88a5b971baa4eec7e65306c7e07746534caa661fc83694ff437d9012dc84dee39dfbfaab947
   languageName: node
   linkType: hard
 
@@ -7451,45 +7451,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"naughty-math@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "naughty-math@workspace:."
-  dependencies:
-    "@babel/core": ^7.20.0
-    "@babel/preset-env": ^7.20.0
-    "@babel/runtime": ^7.20.0
-    "@react-native-async-storage/async-storage": ^1.23.1
-    "@react-native-firebase/analytics": ^19.2.2
-    "@react-native-firebase/app": ^19.2.2
-    "@react-native/babel-preset": 0.74.83
-    "@react-native/eslint-config": 0.74.83
-    "@react-native/metro-config": 0.74.83
-    "@react-native/typescript-config": 0.74.83
-    "@react-navigation/native": ^6.1.17
-    "@react-navigation/native-stack": ^6.9.26
-    "@types/lodash": ^4.17.4
-    "@types/react": ^18.2.6
-    "@types/react-test-renderer": ^18.0.0
-    babel-jest: ^29.6.3
-    eslint: ^8.19.0
-    jest: ^29.6.3
-    lodash: ^4.17.21
-    prettier: 2.8.8
-    react: 18.2.0
-    react-native: 0.74.1
-    react-native-animatable: ^1.4.0
-    react-native-cross-platform-game-services: ^0.0.4
-    react-native-google-mobile-ads: ^13.3.1
-    react-native-onesignal: ^5.2.0
-    react-native-safe-area-context: ^4.10.1
-    react-native-screens: ^3.31.1
-    react-native-sound: ^0.11.2
-    react-native-system-navigation-bar: ^2.6.4
-    react-test-renderer: 18.2.0
-    typescript: 5.0.4
-  languageName: unknown
-  linkType: soft
-
 "negotiator@npm:0.6.3, negotiator@npm:^0.6.3":
   version: 0.6.3
   resolution: "negotiator@npm:0.6.3"
@@ -8247,6 +8208,45 @@ __metadata:
   checksum: 6532fb14752ac34ad6307cd7152408d33ae1ae50c502de5f165444a05ecdf4f526f57559b7b314244b88c8be2beb62add4b1b21dfb6ed0df64d80b1c7b343624
   languageName: node
   linkType: hard
+
+"react-native-naughty-math@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "react-native-naughty-math@workspace:."
+  dependencies:
+    "@babel/core": ^7.20.0
+    "@babel/preset-env": ^7.20.0
+    "@babel/runtime": ^7.20.0
+    "@react-native-async-storage/async-storage": ^1.23.1
+    "@react-native-firebase/analytics": ^19.2.2
+    "@react-native-firebase/app": ^19.2.2
+    "@react-native/babel-preset": 0.74.83
+    "@react-native/eslint-config": 0.74.83
+    "@react-native/metro-config": 0.74.83
+    "@react-native/typescript-config": 0.74.83
+    "@react-navigation/native": ^6.1.17
+    "@react-navigation/native-stack": ^6.9.26
+    "@types/lodash": ^4.17.4
+    "@types/react": ^18.2.6
+    "@types/react-test-renderer": ^18.0.0
+    babel-jest: ^29.6.3
+    eslint: ^8.19.0
+    jest: ^29.6.3
+    lodash: ^4.17.21
+    prettier: 2.8.8
+    react: 18.2.0
+    react-native: 0.74.1
+    react-native-animatable: ^1.4.0
+    react-native-cross-platform-game-services: ^0.0.4
+    react-native-google-mobile-ads: ^13.3.1
+    react-native-onesignal: ^5.2.0
+    react-native-safe-area-context: ^4.10.1
+    react-native-screens: ^3.31.1
+    react-native-sound: ^0.11.2
+    react-native-system-navigation-bar: ^2.6.4
+    react-test-renderer: 18.2.0
+    typescript: 5.0.4
+  languageName: unknown
+  linkType: soft
 
 "react-native-onesignal@npm:^5.2.0":
   version: 5.2.0
